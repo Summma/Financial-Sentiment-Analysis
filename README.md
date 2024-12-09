@@ -1,4 +1,4 @@
-# financial_sentiment
+# Financial Sentiment Anaylsis
 This Jupyter Notebook contains all the code and experimentation I did to perform sentiment analysis using SKLearn.
 
 ## Usage
