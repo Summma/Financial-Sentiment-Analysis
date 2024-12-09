@@ -3,7 +3,7 @@ This Jupyter Notebook contains all the code and experimentation I did to perform
 
 ## Usage
 ### On Kaggle Notebook
-To run this on Kaggle, download the notebook and import it into Kaggle. It should run out of the box.
+To run this on Kaggle, download this notebook and import it into [Kaggle](https://www.kaggle.com/datasets/sbhatti/financial-sentiment-analysis). It should run out of the box.
 ### With requirements.txt (local)
 While I provide the requirements.txt file, this contains every library with a Kaggle notebook. It's possible to do:
 ```console
